@@ -1,0 +1,18 @@
+{
+  "name": "Barangay San Isidro Waste Collection & Segregation System",
+  "short_name": "Brgy EcoCollect",
+  "description": "Waste collection scheduling, route planning, missed pickup reporting, and RA 9003 segregation compliance for Barangay San Isidro, Malolos, Bulacan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#166534",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
