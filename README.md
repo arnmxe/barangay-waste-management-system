@@ -1,8 +1,5 @@
-# barangay-waste-management-system
-Mobile-first PWA for barangay waste collection scheduling, route planning, missed-pickup reports, and RA 9003 segregation compliance monitoring. Built with Next.js, TypeScript, PostgreSQL, Drizzle ORM, and Leaflet.
-
 # Barangay Waste Collection Scheduling System
-**Client:** Barangay San Isidro, City of Malolos, Bulacan, Philippines (Fictional Sample Barangay)
+**Sample Client:** Barangay San Isidro, City of Malolos, Bulacan, Philippines (Fictional Sample Barangay)
 
 A complete, responsive, mobile-first civic-tech PWA for **Waste Collection Scheduling, Route Planning, Missed Pickup Reports, and RA 9003 Segregation Compliance Monitoring**, built with Next.js App Router, React, TypeScript, Tailwind CSS, Drizzle ORM, PostgreSQL, Leaflet + OpenStreetMap, and Recharts.
 
